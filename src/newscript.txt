@@ -1,1 +1,1 @@
-new script with an error
+error fixed.
